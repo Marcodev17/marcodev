@@ -1,7 +1,7 @@
 /* Configuração central dos canais da MarcoDev. WhatsApp em formato internacional, apenas números. */
 const SITE_CONFIG = Object.freeze({
   whatsapp: '5575998623560',
-  instagram: 'https://www.instagram.com/marco.s__0/',
+  instagram: 'https://www.instagram.com/marcodev64?cplk=M3VlbzZjbW55MWQx',
   linkedin: 'https://www.linkedin.com/in/marco-santos-a5b053404/'
 });
 
